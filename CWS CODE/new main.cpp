@@ -966,15 +966,22 @@ void driverFunc()                         //user
 
 void driverFunc(string s)                 //admin
 {
-    string pass;
+    string pass="";
+    char ch;
     cout<<"\n\t\t Please Enter the Password! : ";
-    cin>>pass;
-    if(pass!="admin") 
+    ch = _getch();
+    while(ch != 13){//character 13 is enter
+        pass.push_back(ch);
+        cout << '*';
+        ch = _getch();
+    }
+    if(pass!="admin")
     {
         cout<<"\n\n\t\tWrong Password, Try Again!\n\n";
+
         system("PAUSE");
         return;
-    }   
+    }
 
     Sleep(1500);
     system("CLS");
