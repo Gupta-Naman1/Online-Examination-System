@@ -1,0 +1,60 @@
+Which of the following is an example for a flat-file database?
+A. FoxPro
+B. Spreadsheet
+C. Star Office
+D. Starbase
+Correct Option : B
+The process of joining data from two or more tables of the same or different databases is called
+A. Filtering
+B. Searching
+C. Sorting
+D. Merging
+Correct Option : D
+A column in a Star Office base table represents a
+A. Record
+B. Field
+C. Structure
+D. File
+Correct Option : B
+The process of limiting the information that appears on the screen is
+(A) Sorting
+(B) Filtering
+(C) Searching
+(D) Merging
+Correct Option : B
+A form contains
+(A) Single table
+(B) Single table & multiple tables
+(C) Table
+(D) Field
+Correct Option : B
+Software is _____
+(A) Peripheral
+(B) Equipment
+(C) Computer program
+(D) None of these
+Correct Option : C
+The computer is _____
+(A) Mechanical device
+(B) Not a data processor
+(C) A data processor
+(D) None of these
+Correct Option : C
+Device used to store the programs and data is _____
+(A) Memory Unit
+(B) Control Unit
+(C) Arithmetic and Logic Unit (ALU)
+(D) None of these
+Correct Option : A
+The ____ is a non impact printer that can produce very high quality, letter-perfect printing.
+(A) laser printer
+(B) dot-matrix printer
+(C) daisy-wheel printer
+(D) electrostatic printer
+Correct Option : A
+Following converts high-level language instructions into machine language _____
+(A) Application software
+(B) System software
+(C) Interpreter
+(D) Operating environment
+Correct Option : C

@@ -1,0 +1,256 @@
+Roll Number : 1
+Name : Arjun Jain
+Age : 17
+Class & Sec : 10 C
+Father's Name : Parveen
+Mother's Name : Indu
+Address : TP-49, Pitampura, Delhi
+_________________________________________
+Roll Number : 2
+Name : Aryan Kumar
+Age : 17
+Class & Sec : 10 C
+Father's Name : Rajan
+Mother's Name : Ritu
+Address : G-7, gurgaon, Delhi
+_________________________________________
+Roll Number : 3
+Name : Chirag Garg
+Age : 17
+Class & Sec : 10 C
+Father's Name : Papa
+Mother's Name : Mummy
+Address : 231, abc, Delhi
+_________________________________________
+Roll Number : 4
+Name : Deepak Aggarwal
+Age : 16
+Class & Sec : 10 C
+Father's Name : Rahul
+Mother's Name : Renu
+Address : 24, Pitampura, Delhi
+_________________________________________
+Roll Number : 5
+Name : Deepika Aggarwal
+Age : 17
+Class & Sec : 10 C
+Father's Name : Parveen
+Mother's Name : Indu
+Address : GP-49, Pitampura, Delhi
+_________________________________________
+Roll Number : 6
+Name : Faizal Kumar
+Age : 17
+Class & Sec : 10 C
+Father's Name : Rajan
+Mother's Name : Ritu
+Address : D-7, gurgaon, Delhi
+_________________________________________
+Roll Number : 7
+Name : Faizal Khan
+Age : 17
+Class & Sec : 10 C
+Father's Name : Inder Khan
+Mother's Name : Mumtaz Khan
+Address : 41, abc, Delhi
+_________________________________________
+Roll Number : 8
+Name : Gaurank Sharma
+Age : 16
+Class & Sec : 10 C
+Father's Name : Rahul
+Mother's Name : Renu
+Address : 74, Pitampura, Delhi
+_________________________________________
+Roll Number : 9
+Name : Harjas Kohli
+Age : 17
+Class & Sec : 10 C
+Father's Name : Parveen
+Mother's Name : Indu
+Address : TU-49, Pitampura, Delhi
+_________________________________________
+Roll Number : 10
+Name : Hritik Dhawan
+Age : 17
+Class & Sec : 10 C
+Father's Name : Rajan
+Mother's Name : Ritu
+Address : G-1, gurgaon, Delhi
+_________________________________________
+Roll Number : 11
+Name : Imaam Singh
+Age : 17
+Class & Sec : 10 C
+Father's Name : Papa
+Mother's Name : Mummy
+Address : 211, abc, Delhi
+_________________________________________
+Roll Number : 12
+Name : Johar Singh
+Age : 16
+Class & Sec : 10 C
+Father's Name : Rahul
+Mother's Name : Renu
+Address : 14, Pitampura, Delhi
+_________________________________________
+Roll Number : 13
+Name : Kunal Khemu
+Age : 17
+Class & Sec : 10 C
+Father's Name : Parveen
+Mother's Name : Indu
+Address : HP-49, Pitampura, Delhi
+_________________________________________
+Roll Number : 14
+Name : Krishna Aggarwal
+Age : 17
+Class & Sec : 10 C
+Father's Name : Rajan
+Mother's Name : Ritu
+Address : K-7, gurgaon, Delhi
+_________________________________________
+Roll Number : 15
+Name : Kamal khan
+Age : 17
+Class & Sec : 10 C
+Father's Name : Papa
+Mother's Name : Mummy
+Address : 231, abc, Delhi
+_________________________________________
+Roll Number : 16
+Name : Lipika Goel
+Age : 16
+Class & Sec : 10 C
+Father's Name : Rahul
+Mother's Name : Renu
+Address : 24, Pitampura, Delhi
+_________________________________________
+Roll Number : 17
+Name : Manan Garg
+Age : 17
+Class & Sec : 10 C
+Father's Name : Parveen
+Mother's Name : Indu
+Address : KP-49, Pitampura, Delhi
+_________________________________________
+Roll Number : 18
+Name : Mridul Gupta
+Age : 17
+Class & Sec : 10 C
+Father's Name : Rajan
+Mother's Name : Ritu
+Address : A-7, gurgaon, Delhi
+_________________________________________
+Roll Number : 19
+Name : Mayank Saini
+Age : 17
+Class & Sec : 10 C
+Father's Name : Papa
+Mother's Name : Mummy
+Address : 31, abc, Delhi
+_________________________________________
+Roll Number : 20
+Name : Mukul 
+Age : 16
+Class & Sec : 10 C
+Father's Name : Rahul
+Mother's Name : Renu
+Address : A4, Pitampura, Delhi
+_________________________________________
+Roll Number : 21
+Name : Naman Gupta
+Age : 17
+Class & Sec : 10 C
+Father's Name : Parveen Gupta
+Mother's Name : Indu Gupta
+Address : PP-49, Pitampura, Delhi
+_________________________________________
+Roll Number : 22
+Name : Naveen Kumar
+Age : 17
+Class & Sec : 10 C
+Father's Name : Rajan
+Mother's Name : Ritu
+Address : H-7, gurgaon, Delhi
+_________________________________________
+Roll Number : 23
+Name : Nitish Kumar
+Age : 17
+Class & Sec : 10 C
+Father's Name : Papa
+Mother's Name : Mummy
+Address : 131, abc, Delhi
+_________________________________________
+Roll Number : 24
+Name : Piyush
+Age : 16
+Class & Sec : 10 C
+Father's Name : Rahul
+Mother's Name : Renu
+Address : 124, Pitampura, Delhi
+_________________________________________
+Roll Number : 25
+Name : Priyanka
+Age : 17
+Class & Sec : 10 C
+Father's Name : Parveen
+Mother's Name : Indu
+Address : AP-49, Pitampura, Delhi
+_________________________________________
+Roll Number : 26
+Name : Reyna
+Age : 17
+Class & Sec : 10 C
+Father's Name : Rajan
+Mother's Name : Ritu
+Address : G-8, gurgaon, Delhi
+_________________________________________
+Roll Number : 27
+Name : Sneha
+Age : 17
+Class & Sec : 10 C
+Father's Name : Papa
+Mother's Name : Mummy
+Address : 201, abc, Delhi
+_________________________________________
+Roll Number : 28
+Name : Tanu
+Age : 16
+Class & Sec : 10 C
+Father's Name : Rahul
+Mother's Name : Renu
+Address : 214, Pitampura, Delhi
+_________________________________________
+Roll Number : 29
+Name : Tisha
+Age : 17
+Class & Sec : 10 C
+Father's Name : Parveen
+Mother's Name : Indu
+Address : zP-49, Pitampura, Delhi
+_________________________________________
+Roll Number : 30
+Name : Ujjwal Jain
+Age : 17
+Class & Sec : 10 C
+Father's Name : Rajan
+Mother's Name : Ritu
+Address : G-7, gurgaon, Delhi
+_________________________________________
+Roll Number : 31
+Name : Vaibhav
+Age : 17
+Class & Sec : 10 C
+Father's Name : Papa
+Mother's Name : Mummy
+Address : 231, abc, Delhi
+_________________________________________
+Roll Number : 32
+Name : Yash Jindal
+Age : 16
+Class & Sec : 10 C
+Father's Name : Rahul
+Mother's Name : Renu
+Address : 274, Pitampura, Delhi
+_________________________________________

@@ -1,0 +1,321 @@
+Roll Number : 1
+Name : Arjun Jain
+Computer : 10
+English : 9
+Maths : 8
+SST : 9
+Science : 9
+Total Marks : 50
+Total Percentage : 90%
+_________________________________________
+Roll Number : 2
+Name : Aryan Kumar
+Computer : 10
+English : 9
+Maths : 8
+SST : 9
+Science : 9
+Total Marks : 50
+Total Percentage : 90%
+_________________________________________
+Roll Number : 3
+Name : Chirag Garg
+Computer : 10
+English : 9
+Maths : 8
+SST : 9
+Science : 9
+Total Marks : 50
+Total Percentage : 90%
+_________________________________________
+Roll Number : 4
+Name : Deepak Aggarwal
+Computer : 10
+English : 9
+Maths : 8
+SST : 9
+Science : 9
+Total Marks : 50
+Total Percentage : 90%
+_________________________________________
+Roll Number : 5
+Name : Deepika Aggarwal
+Computer : 10
+English : 7
+Maths : 9
+SST : 8
+Science : 10
+Total Marks : 50
+Total Percentage : 88%
+_________________________________________
+Roll Number : 6
+Name : Faizal Kumar
+Computer : 8
+English : 9
+Maths : 8
+SST : 8
+Science : 8
+Total Marks : 50
+Total Percentage : 82%
+_________________________________________
+Roll Number : 7
+Name : Faizal Khan
+Computer : 10
+English : 9
+Maths : 10
+SST : 8
+Science : 10
+Total Marks : 50
+Total Percentage : 94%
+_________________________________________
+Roll Number : 8
+Name : Gaurank Sharma
+Name : Varun
+Computer : 10
+English : 9
+Maths : 10
+SST : 8
+Science : 10
+Total Marks : 50
+Total Percentage : 94%
+_________________________________________
+Roll Number : 9
+Name : Harjas Kohli
+Computer : 10
+English : 9
+Maths : 8
+SST : 9
+Science : 8
+Total Marks : 50
+Total Percentage : 88%
+_________________________________________
+Roll Number : 10
+Name : Hritik Dhawan
+Computer : 10
+English : 9
+Maths : 10
+SST : 9
+Science : 10
+Total Marks : 50
+Total Percentage : 96%
+_________________________________________
+Roll Number : 11
+Name : Imaam Singh
+Computer : 10
+English : 9
+Maths : 10
+SST : 8
+Science : 10
+Total Marks : 50
+Total Percentage : 94%
+_________________________________________
+Roll Number : 12
+Name : Johar Singh
+Computer : 10
+English : 9
+Maths : 8
+SST : 8
+Science : 10
+Total Marks : 50
+Total Percentage : 90%
+_________________________________________
+Roll Number : 13
+Name : Kunal Khemu
+Computer : 10
+English : 9
+Maths : 8
+SST : 9
+Science : 8
+Total Marks : 50
+Total Percentage : 88%
+_________________________________________
+Roll Number : 14
+Name : Krishna Aggarwal
+Computer : 8
+English : 9
+Maths : 8
+SST : 9
+Science : 10
+Total Marks : 50
+Total Percentage : 88%
+_________________________________________
+Roll Number : 15
+Name : Kamal khan
+Computer : 10
+English : 7
+Maths : 8
+SST : 9
+Science : 7
+Total Marks : 50
+Total Percentage : 82%
+_________________________________________
+Roll Number : 16
+Name : Lipika Goel
+Computer : 10
+English : 9
+Maths : 8
+SST : 9
+Science : 8
+Total Marks : 50
+Total Percentage : 88%
+_________________________________________
+Roll Number : 17
+Name : Manan Garg
+Computer : 10
+English : 9
+Maths : 8
+SST : 9
+Science : 8
+Total Marks : 50
+Total Percentage : 88%
+_________________________________________
+Roll Number : 18
+Name : Mridul Gupta
+Computer : 10
+English : 9
+Maths : 10
+SST : 8
+Science : 10
+Total Marks : 50
+Total Percentage : 94%
+_________________________________________
+Roll Number : 19
+Name : Mayank Saini
+Computer : 10
+English : 9
+Maths : 9
+SST : 8
+Science : 10
+Total Marks : 50
+Total Percentage : 92%
+_________________________________________
+Roll Number : 20
+Name : Mukul 
+Computer : 10
+English : 9
+Maths : 10
+SST : 8
+Science : 8
+Total Marks : 50
+Total Percentage : 90%
+_________________________________________
+Roll Number : 21
+Name : Naman Gupta
+Computer : 9
+English : 8
+Maths : 7
+SST : 8
+Science : 6
+Total Marks : 50
+Total Percentage : 76%
+_________________________________________
+Roll Number : 22
+Name : Naveen Kumar
+Computer : 10
+English : 9
+Maths : 10
+SST : 8
+Science : 10
+Total Marks : 50
+Total Percentage : 94%
+_________________________________________
+Roll Number : 23
+Name : Nitish Kumar
+Computer : 10
+English : 9
+Maths : 8
+SST : 9
+Science : 8
+Total Marks : 50
+Total Percentage : 88%
+_________________________________________
+Roll Number : 24
+Name : Piyush
+Computer : 10
+English : 9
+Maths : 8
+SST : 9
+Science : 8
+Total Marks : 50
+Total Percentage : 88%
+_________________________________________
+Roll Number : 25
+Name : Priyanka
+Computer : 10
+English : 9
+Maths : 8
+SST : 9
+Science : 9
+Total Marks : 50
+Total Percentage : 90%
+_________________________________________
+Roll Number : 26
+Name : Reyna
+Computer : 10
+English : 7
+Maths : 8
+SST : 9
+Science : 8
+Total Marks : 50
+Total Percentage : 84%
+_________________________________________
+Roll Number : 27
+Name : Sneha
+Computer : 10
+English : 9
+Maths : 7
+SST : 9
+Science : 7
+Total Marks : 50
+Total Percentage : 84%
+_________________________________________
+Roll Number : 28
+Name : Tanu
+Computer : 9
+English : 9
+Maths : 9
+SST : 8
+Science : 10
+Total Marks : 50
+Total Percentage : 90%
+_________________________________________
+Roll Number : 29
+Name : Tisha
+Computer : 10
+English : 9
+Maths : 10
+SST : 8
+Science : 10
+Total Marks : 50
+Total Percentage : 94%
+_________________________________________
+Roll Number : 30
+Name : Ujjwal Jain
+Computer : 10
+English : 9
+Maths : 10
+SST : 8
+Science : 10
+Total Marks : 50
+Total Percentage : 94%
+_________________________________________
+Roll Number : 31
+Name : Vaibhav
+Computer : 10
+English : 9
+Maths : 10
+SST : 8
+Science : 10
+Total Marks : 50
+Total Percentage : 94%
+_________________________________________
+Roll Number : 32
+Name : Yash Jindal
+Computer : 10
+English : 9
+Maths : 8
+SST : 9
+Science : 8
+Total Marks : 50
+Total Percentage : 88%
+_________________________________________

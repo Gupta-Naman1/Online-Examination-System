@@ -1,0 +1,36 @@
+Exam Name : SST
+Exam Code : SS104
+Exam Date : 15/11/2020
+Exam Time : 9 AM
+Exam Duration : 1.5 Hours 
+Exam Type : Subjective
+_______________________________
+Exam Name : ENGLISH
+Exam Code : EN901
+Exam Date : 18/11/2020
+Exam Time : 9 AM
+Exam Duration : 2 Hours 
+Exam Type : Subjective
+_______________________________
+Exam Name : SCIENCE
+Exam Code : SC901
+Exam Date : 20/11/2020
+Exam Time : 9 AM
+Exam Duration : 2 Hours 
+Exam Type : Objective
+_______________________________
+Exam Name : COMPUTER
+Exam Code : CO901
+Exam Date : 22/11/2020
+Exam Time : 8 AM
+Exam Duration : 2.5 Hours 
+Exam Type : Objective
+_______________________________
+Exam Name : MATHS
+Exam Code : MA901
+Exam Date : 25/11/2020
+Exam Time : 9 AM
+Exam Duration : 2 Hours 
+Exam Type : Subjective
+_______________________________
+
